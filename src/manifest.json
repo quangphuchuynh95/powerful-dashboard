@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "P Dashboard",
+  "description": "A plain text description",
+  "version": "0.0.1",
+  "author": "Quang Phuc",
+  "chrome_url_overrides": {
+    "newtab": "./pages/newtab/index.html"
+  }
+}
